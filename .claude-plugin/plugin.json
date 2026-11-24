@@ -1,0 +1,9 @@
+{
+  "name": "backdrop-switcher",
+  "version": "0.1.0",
+  "description": "/backdrop で会話の背景を切り替える（動くシーン・単色・グラデーション）",
+  "license": "MIT",
+  "author": {
+    "name": "yasuyasu-jp"
+  }
+}

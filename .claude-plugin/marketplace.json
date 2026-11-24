@@ -1,0 +1,13 @@
+{
+  "name": "claude-backdrop",
+  "description": "Claude の会話の背景をカスタマイズする Mod",
+  "owner": {
+    "name": "yasuyasu-jp"
+  },
+  "plugins": [
+    {
+      "name": "backdrop-switcher",
+      "source": "./"
+    }
+  ]
+}
